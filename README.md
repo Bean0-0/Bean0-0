@@ -11,7 +11,8 @@
 ![snake gif](https://github.com/Bean0-0/Bean0-0/blob/output/github-contribution-grid-snake-dark.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bean0-0&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bean0-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
