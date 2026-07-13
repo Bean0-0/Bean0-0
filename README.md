@@ -1,4 +1,4 @@
-<h1 align="center">Ben Nasse</h1>
+<h1 align="center">Benjamin Nasse</h1>
 
 <p align="center">
   Building practical AI-assisted tools, workflow automation, and data systems. CompTIA Security+ certified.
@@ -23,7 +23,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerplatform&logoColor=white)
