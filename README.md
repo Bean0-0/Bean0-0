@@ -40,7 +40,7 @@
 
 - [SkillsUSA Nationals 2025](https://github.com/Bean0-0/SkillsUSA-Nats-2025) — 2025 national-competition project
 - [TLi Strategy Tool](https://github.com/Bean0-0/tli-strategy-app) — a Flask app for disciplined position management, alerts, and Gmail-assisted parsing
-- [TAMU CTF](https://github.com/Bean0-0/TAMU-CTF) — hands-on security exploration
+- [Uber Hackathon]((https://github.com/Bean0-0/UberHackathon)] — Uber hackathon project 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bean0-0/Bean0-0/output/github-contribution-grid-snake-dark.svg">
