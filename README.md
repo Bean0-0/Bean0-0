@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bean0-0&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Bean0-0&theme=tokyonight&headerStyle=mac&typingSpeed=50&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cexit)](https://github.com/Bean0-0)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Bean0-0&theme=tokyonight&headerStyle=mac&typingSpeed=100&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cexit)](https://github.com/Bean0-0)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
