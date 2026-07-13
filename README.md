@@ -36,7 +36,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Selected work
+## Cool Things I've done
 
 - [SkillsUSA Nationals 2025](https://github.com/Bean0-0/SkillsUSA-Nats-2025) — 2025 national-competition project
 - [TLi Strategy Tool](https://github.com/Bean0-0/tli-strategy-app) — a Flask app for disciplined position management, alerts, and Gmail-assisted parsing
