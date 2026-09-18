@@ -10,12 +10,6 @@
   <a href="https://github.com/Bean0-0?tab=repositories">All repositories</a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
-  <img width="100%" alt="macOS-style terminal artwork reading BEN // BUILD USEFUL THINGS" src="./assets/terminal-light.svg">
-</picture>
-
 ## What I build
 
 - **AI-assisted tools** that make complex work easier to execute
