@@ -24,20 +24,22 @@
 
 ## Featured work
 
-### [TLi Strategy Tool](https://github.com/Bean0-0/tli-strategy-app)
-**Flask · Gmail API · SQLAlchemy**
-
-Risk-focused position-management app with sizing tools, price alerts, Gmail-powered email parsing, and isolated user workspaces.
-
 ### [TAMU Schedule Helper](https://github.com/Bean0-0/tamu-schedule-helper)
-**JavaScript · Violentmonkey · Browser APIs**
+**JavaScript · Browser APIs · Data integration**
 
-Browser userscript that adds RateMyProfessors and Anex grade data to Aggie Schedule Builder, plus schedule generation for locked and full sections.
+Browser userscript adding professor ratings and course-grade data to Aggie Schedule Builder, with schedule generation for locked and full sections.
 
-### [SkillsUSA Nationals 2025](https://github.com/Bean0-0/SkillsUSA-Nats-2025)
-**Python · Linux · Cybersecurity**
+### [Fantasy Football Helper](https://github.com/Bean0-0/fantasy-football)
+**Python · Yahoo OAuth · Sleeper API**
 
-National-competition work across cryptography, web exploitation, Linux forensics, and binary challenges.
+Draft assistant that builds VORP-ranked player boards from live projections and ADP, then injects recommendations into Yahoo Fantasy.
+
+### [Caravan](https://github.com/Bean0-0/UberHackathon)
+**JavaScript · Node.js · Mapbox**
+
+Live hackathon ride-sharing prototype built around accessibility needs, driver privacy, and vehicle-emissions scoring.
+
+**Recognition** — [SkillsUSA Nationals 2025](https://github.com/Bean0-0/SkillsUSA-Nats-2025): cybersecurity competition work across cryptography, web exploitation, Linux forensics, and binary challenges.
 
 ## Tools I use to build
 
